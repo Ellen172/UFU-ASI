@@ -1,10 +1,8 @@
 # Implementar operações ENC e DEC da Cifra de Vigenére (com XOR). 
 # A operação ENC recebe do usuário um texto em claro e chave (em ascii) e produz texto cifrado em ASCII representando o hexa do texto cifrado. 
 # A operação DEC recebe do usuário um texto cifrado (ascii do hexa) e uma chave secreta (em ascii) e produz o texto em claro. 
-# Enviar códigos do exercício para e-mail do professor (albertini @ufu ) até 31/01/2024
 
 import sys
-
 
 def exibir_menu():
     print("\nMenu:")
